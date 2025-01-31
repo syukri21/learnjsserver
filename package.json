@@ -1,0 +1,17 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "jalan": "node test.js",
+    "start": " node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saya",
+  "license": "MIT",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
